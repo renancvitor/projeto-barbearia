@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # projeto-barbearia
 =======
+=======
+>>>>>>> c34e071 (feat(create-turbo): create basic)
 # Turborepo starter
 
 This is an official starter Turborepo.
@@ -82,4 +85,7 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+<<<<<<< HEAD
+>>>>>>> c34e071 (feat(create-turbo): create basic)
+=======
 >>>>>>> c34e071 (feat(create-turbo): create basic)

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "barba-brutal",
+=======
+  "name": "my-turborepo",
+>>>>>>> c34e071 (feat(create-turbo): create basic)
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -9,6 +13,7 @@
   },
   "devDependencies": {
     "prettier": "^3.2.5",
+<<<<<<< HEAD
     "turbo": "^2.0.8",
     "typescript": "^5.4.5"
   },
@@ -20,4 +25,13 @@
     "apps/*",
     "packages/*"
   ]
+=======
+    "turbo": "^2.0.7",
+    "typescript": "^5.4.5"
+  },
+  "packageManager": "pnpm@8.15.6",
+  "engines": {
+    "node": ">=18"
+  }
+>>>>>>> c34e071 (feat(create-turbo): create basic)
 }
