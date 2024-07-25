@@ -2,6 +2,7 @@
     "name": "@barba/core",
     "version": "1.0.0",
     "description": "",
+<<<<<<< HEAD
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
@@ -17,4 +18,13 @@
     "dependencies": {
         "typescript": "^5.5.3"
     }
+=======
+    "main": "src/index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Leonardo Moura Leitão",
+    "license": "ISC"
+>>>>>>> 4708dc1 (Finalização terceiro dia)
 }
